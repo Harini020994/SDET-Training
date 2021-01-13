@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100474" started-at="2021-01-13T12:28:08Z" finished-at="2021-01-13T12:29:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100474" started-at="2021-01-13T12:28:08Z" finished-at="2021-01-13T12:29:48Z">
+      <class name="Cricket.TopStories">
+        <test-method status="PASS" signature="bt()[pri:0, instance:Cricket.TopStories@7085bdee]" name="bt" is-config="true" duration-ms="38085" started-at="2021-01-13T12:28:08Z" finished-at="2021-01-13T12:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:Cricket.TopStories@7085bdee]" name="testcase1" duration-ms="62329" started-at="2021-01-13T12:28:46Z" finished-at="2021-01-13T12:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- Cricket.TopStories -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
